@@ -22,6 +22,6 @@ The dataset i worked on is a housing datset from the city of Nashville in the st
 2. Populating the property address column of the dataset.
 3. Split the property address column into individual columns (address, city).
 4. Split the owner address column into individual columns (address, city, state).
-5. Changed Y and N TO Yes and No in 'Sold as Vacant' FIELD.
+5. Changed Y and N to Yes and No in 'Sold as Vacant' FIELD.
 6. Removed duplicate rows.
 7. Deleted unused columns.
